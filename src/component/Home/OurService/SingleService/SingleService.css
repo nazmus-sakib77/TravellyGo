@@ -1,0 +1,44 @@
+.singleService{
+    text-align: center;
+    padding: 5px  15px;
+}
+.singleService p{
+    color: #727272;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 28px;
+}
+.singleService h2{
+    font-size: 18px;
+    margin-bottom: 10px;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+.singleService i {
+    font-size: 30px;
+    color: white;
+
+    border-radius: 50%;
+    padding: 15px 10px;
+    text-shadow: #3455b6 1px 1px, #3455c0 2px 2px, #3455c0 3px 3px, #3455c0 4px 4px, #3455c0 5px 5px, #3455c0 6px 6px, #3455c0 7px 7px, #3455c0 8px 8px, #3455c0 9px 9px, #3455c0 10px 10px, #3455c0 11px 11px, #3455c0 12px 12px, #3455c0 13px 13px, #3455c0 14px 14px, #3455c0 15px 15px, #3455c0 16px 16px, #3455c0 17px 17px, #3455c0 18px 18px, #3455c0 19px 19px, #3455c0 20px 20px, #3455c0 21px 21px, #3455c0 22px 22px, #3455c0 23px 23px, #3455c0 24px 24px, #3455c0 25px 73px, #3455c0 26px 26px, #3455c0 27px 27px, #3455c0 28px 28px, #3455c0 29px 29px, #3455c0 30px 30px, #3455c0 31px 31px, #3455c0 32px 32px, #3455c0 33px 33px, #3455c0 34px 34px, #3455c0 35px 35px, #3455c0 36px 36px, #3455c0 37px 37px, #3455c0 38px 38px, #3455c0 39px 39px, #3455c0 40px 40px, #3455c0 41px 41px, #3455c0 42px 42px, #3455c0 43px 43px, #3455c0 44px 44px, #3455c0 45px 45px, #3455c0 46px 46px, #3455c0 47px 47px, #3455c0 48px 48px, #3455c0 49px 49px, #3455c0 50px 50px, #3455c0 51px 51px, #3455c0 52px 52px, #3455c0 53px 53px, #3455c0 54px 54px, #3455c0 55px 55px, #3455c0 56px 56px, #3455c0 57px 57px, #3455c0 58px 58px, #3455c0 59px 59px, #3455c0 60px 60px, #3455c0 61px 61px, #3455c0 62px 62px, #3455c0 63px 63px, #3455c0 64px 64px, #3455c0 65px 65px, #3455c0 66px 66px, #3455c0 67px 67px, #3455c0 68px 68px, #3455c0 69px 69px, #3455c0 70px 70px, #3455c0 71px 71px, #3455c0 72px 72px, #3455c0 73px 73px, #3455c0 74px 74px, #3455c0 75px 75px, #3455c0 76px 76px, #3455c0 77px 77px, #3455c0 78px 78px, #3455c0 79px 79px, #3455c0 80px 80px, #3455c0 81px 81px, #3455c0 82px 82px, #3455c0 83px 83px, #3455c0 84px 84px, #3455c0 85px 85px, #3455c0 86px 86px, #3455c0 87px 87px, #3455c0 88px 88px, #3455c0 89px 89px, #3455c0 90px 90px, #3455c0 91px 91px, #3455c0 92px 92px, #3455c0 93px 93px, #3455c0 94px 94px, #3455c0 95px 95px, #3455c0 96px 96px, #3455c0 97px 97px, #3455c0 98px 98px, #3455c0 99px 99px, #3455c0 40px 100px
+    
+  
+}
+.icon{
+    background-color: #4a6ee0;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 29px;
+    height: 80px;
+    line-height: 80px;
+    text-align: center;
+    top: 0;
+    transition: all 0.3s ease 0s;
+    width: 80px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+   
+    overflow: hidden;
+}

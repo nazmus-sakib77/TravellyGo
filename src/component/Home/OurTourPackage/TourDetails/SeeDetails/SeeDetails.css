@@ -1,0 +1,32 @@
+.booking-container{
+    background-image: url(https://i.ibb.co/QvML0xS/section-bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 100px 0;
+}
+.order-details-more{
+    padding: 50px 0;
+}
+.place-order form{
+    display: flex;
+    flex-direction: column;
+    
+    justify-content: center;
+    align-items: center;
+}
+.place-order{
+    padding: 100px 0;
+}
+.place-order form input{
+    width: 100%;
+    margin-bottom: 10px;
+    border: .0001px solid #4b4b4b96;
+   
+}
+ .information p{
+    color: #696363ef;
+        font-weight: 500;
+        font-size: 15px;
+        line-height: 1.6;
+    }
+

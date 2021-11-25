@@ -1,0 +1,18 @@
+.rating{
+  padding: 20px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 500;
+}
+.rating p{
+color: #696363d2;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 1.6;
+}
+.rating i{
+    color: #fec42d;
+}
+.single-item{
+    padding: 0 0 20px 0 ;
+    margin-bottom: 30px;
+}
